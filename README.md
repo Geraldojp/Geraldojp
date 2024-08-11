@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Enigmacamp as IT Trainee<br>I'm currently learning Front-End<br><br>
+I'm currently working at Bank Mandiri as a Software Engineer<br>
 
 
 # 💻 Tech Stack:
